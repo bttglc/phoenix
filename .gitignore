@@ -1,0 +1,10 @@
+# Ignore serverpack
+serverpack/
+
+# Ignore OS folders
+.DS_Store/
+Thumbs.db/
+
+# Ignore log folders
+logs/
+*.log/
